@@ -1,0 +1,19 @@
+  .home{
+            height: 700px;
+            width: 85%;
+            border: 12px solid red;
+            padding-left:10px;
+            padding-right:10px;
+            margin-left: auto;
+            margin-right:auto;
+            background-color:cyan;
+        }
+        .content{
+            border:1px solid whitesmoke;
+            background-color: white;
+            width:95%;
+            height:1190px;
+            padding:10px;
+            margin-left:auto;
+            margin-right:auto;
+        }
