@@ -612,7 +612,7 @@ style.css
 ## Output:
 ![output](./out1.png)
 ![output](./out2.png)
-![output](./out3.png)
+![output](./res4.png)
 ![output](./out4.png)
 
 ## HTML Validator
